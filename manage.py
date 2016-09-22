@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
- 
-import telebot
-import random
-import time
-from telebot import types
- 
 TOKEN = '113955046:AAHuX-rGMzW5MB4_MNTal_MvWx4PXcS3j4k'
  
 bot = telebot.TeleBot(TOKEN)
